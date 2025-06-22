@@ -47,9 +47,9 @@ Whether you're a passive holder or an active DeFi user — Metis helps your JLP 
 
 ## JLP Token Details
 
-Token Name: Jupiter Liquidity Provider
-Token Mint Address: "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
-Accepted Token: Only JLP is supported for deposits and withdrawals.
+- Token Name: Jupiter Liquidity Provider
+- Token Mint Address: "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
+- Accepted Token: Only JLP is supported for deposits and withdrawals.
 
 ---
 
